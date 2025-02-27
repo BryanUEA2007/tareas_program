@@ -30,5 +30,5 @@ ordenar_fila(matriz, 1)
 
 # Imprimir matriz después de ordenar
 print("\nMatriz después de ordenar la fila 1:")
-for fila in matriz:
+for fila in matriz:  #Recorremos la lista
     print(fila)
